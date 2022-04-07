@@ -1,22 +1,33 @@
 {
   "files": {
-    "main.css": "/promo/static/css/main.096c54ef.css",
-    "main.js": "/promo/static/js/main.bf1a4ad5.js",
+    "main.css": "/promo/static/css/main.40305a6d.css",
+    "main.js": "/promo/static/js/main.44cc5c42.js",
     "static/media/banner.png": "/promo/static/media/banner.ae198e4b72705d46e807.png",
     "static/media/bg.png": "/promo/static/media/bg.ac0cc6a5c0d2aa2231d9.png",
     "static/media/bgsection.png": "/promo/static/media/bgsection.5d716bd7588746820831.png",
     "static/media/marketing.png": "/promo/static/media/marketing.a55fff4874978ce41459.png",
     "static/media/chinkoun.png": "/promo/static/media/chinkoun.3bb5a3850f4c37eba3fb.png",
     "static/media/price.png": "/promo/static/media/price.fa3106186d7cfa674010.png",
+    "static/media/Poppins-ExtraLightItalic.otf": "/promo/static/media/Poppins-ExtraLightItalic.a05a18140c54b594faa6.otf",
+    "static/media/Poppins-BoldItalic.otf": "/promo/static/media/Poppins-BoldItalic.5d0fc1ecd0bb701e80f0.otf",
+    "static/media/Poppins-ExtraBoldItalic.otf": "/promo/static/media/Poppins-ExtraBoldItalic.1059940795be15759a58.otf",
+    "static/media/Poppins-BlackItalic.otf": "/promo/static/media/Poppins-BlackItalic.5c07bea3344bc93556fa.otf",
+    "static/media/Poppins-SemiBold.otf": "/promo/static/media/Poppins-SemiBold.daed8dfe825ca62d84b8.otf",
+    "static/media/Poppins-Bold.otf": "/promo/static/media/Poppins-Bold.b5c5cbad4c3e1e9f4fec.otf",
+    "static/media/Poppins-ExtraLight.otf": "/promo/static/media/Poppins-ExtraLight.dbadba246cc03e3210c8.otf",
+    "static/media/Poppins-ExtraBold.otf": "/promo/static/media/Poppins-ExtraBold.f662524d0b253362c53e.otf",
+    "static/media/Poppins-Regular.otf": "/promo/static/media/Poppins-Regular.1421a94e04ced16b1ffc.otf",
+    "static/media/Poppins-Medium.otf": "/promo/static/media/Poppins-Medium.2175351766d1d5e18c15.otf",
+    "static/media/Poppins-Black.otf": "/promo/static/media/Poppins-Black.9e5def582b1916bda929.otf",
     "static/media/globe.png": "/promo/static/media/globe.0b648d3052548679d4de.png",
     "static/media/logo.png": "/promo/static/media/logo.7f10dab8c364286d30b0.png",
     "static/media/check.png": "/promo/static/media/check.4c0c38333aebfef30de5.png",
     "index.html": "/promo/index.html",
-    "main.096c54ef.css.map": "/promo/static/css/main.096c54ef.css.map",
-    "main.bf1a4ad5.js.map": "/promo/static/js/main.bf1a4ad5.js.map"
+    "main.40305a6d.css.map": "/promo/static/css/main.40305a6d.css.map",
+    "main.44cc5c42.js.map": "/promo/static/js/main.44cc5c42.js.map"
   },
   "entrypoints": [
-    "static/css/main.096c54ef.css",
-    "static/js/main.bf1a4ad5.js"
+    "static/css/main.40305a6d.css",
+    "static/js/main.44cc5c42.js"
   ]
 }
